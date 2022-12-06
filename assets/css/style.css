@@ -54,6 +54,18 @@ p {
     font-size: 16px;
 }
 
+#about_me img {
+    margin-top: 28px;
+    margin-bottom: 28px;
+}
+
+#about_me p {
+    padding-bottom: 25px;
+    padding-top: 10px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
 .hero {
     height: 250px;
     width: 100%;
@@ -138,4 +150,8 @@ p {
 
 .footer h2 {
     font-size: 20px;
+    text-align: center;
+}
+#contact-me p{
+    margin-bottom: 40px;
 }
