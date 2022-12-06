@@ -45,6 +45,10 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
+.sections-1-2-3 a:hover{
+        cursor: pointer; 
+    
+}
 
 p {
     font-size: 16px;
