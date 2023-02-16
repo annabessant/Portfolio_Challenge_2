@@ -23,6 +23,9 @@ Now, when the page is resized or viewed on various screens and devices then the 
 Distributed under the MIT License. See LICENSE.txt for more information.
 All copyright for images belongs to Anna Bessant. 
 
+## Link to the website
+https://annabessant.github.io/Portfolio_Challenge_2/
+
 ## Contact
 
 For further details and follow-up: anna@thefutureofinnovation.org 
